@@ -1,0 +1,136 @@
+https://tailwindcss.com/docs/installation/using-vite 
+
+to install tailwind css
+
+normal css
+module css
+tailwind css
+
+
+
+lucide react --
+go for npm 
+npm install lucide-react
+for icon
+npm install lucide-react
+npm run dev
+
+https://lucide.dev/icons/
+import { Camera } from 'lucide-react';
+
+// Usage
+const App = () => {
+  return <Camera color="red" size={48} />;
+};
+
+export default App;
+
+
+2nd option install icons is
+
+remix icon
+Installation
+Note: If you'd like to use Remix Icon with a CDN, you can skip this installation step.
+npm install remixicon --save
+import 'remixicon/fonts/remixicon.css'
+npm run dev
+
+https://remixicon.com/
+
+
+unsplash  for images 
+https://unsplash.com/
+
+
+for git config to vs code
+
+git config user.name "Sanjana KC"
+git config user.email "sanjana@gmail.com"
+
+how to remove git from vs code
+
+1️⃣ Disable Git in VS Code (Keep Git Installed)
+
+If you just want to stop Git features in VS Code:
+
+Steps:
+
+Open VS Code
+
+Press Ctrl + , (Settings)
+
+Search: git.enabled
+
+Uncheck Git: Enabled
+
+✅ Git will stop working inside VS Code
+❌ Git is still installed on your system
+
+or 
+
+Remove Git from a Project (Uninitialize Git)
+
+If you want to remove Git from a specific project:
+
+Step 1:
+
+Open your project folder
+
+Step 2:
+
+Delete the .git folder
+
+In terminal:
+
+rm -rf .git
+
+
+(Windows PowerShell)
+
+rmdir /s /q .git
+
+
+Or manually delete the hidden .git folder.
+
+✅ Now that project is no longer a Git repository.
+
+🔹 3️⃣ Completely Uninstall Git from Your System
+
+If you want to fully remove Git from your computer:
+
+Windows:
+
+Go to Control Panel
+
+Click Programs
+
+Click Uninstall a program
+
+Find Git
+
+Click Uninstall
+
+After that, restart VS Code.
+
+Check:
+
+git --version
+
+
+If it says command not found → Git removed ✅
+
+🧠 Important
+
+VS Code does NOT contain Git itself.
+It only uses Git installed on your system.
+
+⭐ Short Viva Answer
+
+Git can be removed by disabling it in VS Code settings, deleting the .git folder from a project, or uninstalling Git from the system.
+
+If you tell me which one you want (disable / remove from project / uninstall completely), I’ll guide you step-by-step 😊
+
+----------------------------------------------------------------------------------
+for disable and enable git
+in vs code ctrl+, press for 
+to enable git go to search bar type git and scrooll down there Uncheck 

@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+
+#rigth::-webkit-scrollbar{
+    display:none;
+
+}
+
+.hi{
+    background-color: #fff;
+}

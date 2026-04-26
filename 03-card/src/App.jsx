@@ -7,6 +7,8 @@ const App = () => {
         <Card />
         <Card />
         <Card />
+        <card/>
+        <card/>
 
 
     </div>

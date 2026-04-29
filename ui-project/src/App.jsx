@@ -37,6 +37,12 @@ const App = () =>{
       intro:'play in tries',
       color:'yellow',
       tag:'Sports'
+    },
+    {
+      img:'',
+      intro:'strong in lift',
+      color:'brown',
+      tag:'Sports'
     }
     ]
 

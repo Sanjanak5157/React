@@ -43,6 +43,12 @@ const App = () =>{
       intro:'strong in lift',
       color:'brown',
       tag:'Sports'
+    },
+    {
+      img:'',
+      intro:'liegthweigth your self',
+      color:'peach',
+      tag:'Sports'
     }
     ]
 
